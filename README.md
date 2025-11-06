@@ -14,7 +14,7 @@ The goal is to identify financial risk early by analyzing company metrics such a
 - 🌲 **Random Forest**: Improved model generalization through ensembling.
 - 🚀 **Gradient Boosting**: Delivered the highest accuracy by sequentially correcting model errors.
 - 📊 **Evaluation**: Used cross-validation, accuracy, precision, recall, and confusion matrices for model assessment.
-- 💾 **Deployment**: Serialized the best model (`gradientboosting.pkl`) and implemented a reusable `make_predictions()` function, added them to `gradientboosting.py` module.
+- 💾 **Deployment**: Serialized the best model (`model-5-3.pkl`) and implemented a reusable `make_predictions()` function.
 
 ---
 
@@ -46,6 +46,6 @@ This systematic tuning enhanced performance and reduced bias across all ensemble
 ## 🙋‍♂️ About Me
 Hi, I’m **Pushkin Kumar** — a data enthusiast passionate about building predictive models and turning data into actionable insights.  
 
-📫 [LinkedIn](https://www.linkedin.com/in/pushkin-kumar/) | [GitHub](https://github.com/Pushkin-Kumar)
+📫 [LinkedIn](https://www.linkedin.com/in/pushkin-kumar/) | [GitHub](https://github.com/Pushkin-Kumar/)
 
 ---
