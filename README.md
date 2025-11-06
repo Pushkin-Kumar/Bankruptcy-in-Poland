@@ -1,1 +1,1 @@
-# Bankruptcy-inPoland
+# Bankruptcy-in-Poland
